@@ -31,7 +31,7 @@ Here are the supported runtimes that I will be creating examples for:
 
 [handler.java](https://github.com/dabit3/api-gateway-lambda-in-various-runtimes/blob/master/handler.java)
 
-Check out [this serverless example] for a full Java implementation
+Check out [this serverless example](https://github.com/serverless/examples/tree/master/aws-java-simple-http-endpoint) for a full Java implementation
 
 ## More examples
 
