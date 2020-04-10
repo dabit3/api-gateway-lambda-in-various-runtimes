@@ -4,7 +4,7 @@ Why? When working with Lambda functions, there are various different things to t
 
 - Is this function being invoked from an HTTP trigger?
 - Is this function using API Gateway?
-- Are you calling this function from a client-side applications?
+- Are you calling this function from a client-side application?
 - Are you running into CORS issues when fetching data from your Lambda function?
 
 If you answered yes to these questions, then these copy-paste examples should help you to get up and running with many of the most popular runtimes.
