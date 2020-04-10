@@ -21,12 +21,18 @@ Here are the supported runtimes that I will be creating examples for:
 
 ### .Net
 
-Coming soon
+[handler.cs](https://github.com/dabit3/api-gateway-lambda-in-various-runtimes/blob/master/handler.cs)
 
 ### NodeJS / JavaScript
 
-Coming soon
+[index.js](https://github.com/dabit3/api-gateway-lambda-in-various-runtimes/blob/master/index.js)
 
 ### Java
 
-Coming soon
+[handler.java](https://github.com/dabit3/api-gateway-lambda-in-various-runtimes/blob/master/handler.java)
+
+Check out [this serverless example] for a full Java implementation
+
+## More examples
+
+For more examples of Lambda integrations in different languages, check out the [Serverless Examples](https://github.com/serverless/examples)
